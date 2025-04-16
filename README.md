@@ -49,19 +49,19 @@ Real-time Messaging and Notification System
 Secure and Reliable Communication
 
 
-   . Encrypted Messaging :-
+    . Encrypted Messaging :-
           TalkTo employs advanced encryption techniques to protect user data and ensure the confidentiality of all communications.
         
 
-   . Secure Data Storage :-
+    . Secure Data Storage :-
            The application leverages JDBC to securely store user information and chat history, safeguarding sensitive data.
 
 
-   . Reliable Infrastructure :-
+    . Reliable Infrastructure :-
            Powered by a robust Servlet-based architecture, TalkTo provides a reliable and scalable communication platform for users.
          
 
-   . Backup and Recovery :-
+    . Backup and Recovery :-
            TalkTo incorporates a comprehensive backup and recovery system, ensuring data integrity and business continuity.
 
 
